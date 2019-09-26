@@ -1,0 +1,147 @@
+﻿/*reset formatting*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block
+}
+
+body {
+    line-height: 1em;
+}
+
+/*keep the default list style for ol and ul*/
+/*ol, ul {
+    list-style: none
+}*/
+
+blockquote, q {
+    quotes: none
+}
+
+    blockquote:after, blockquote:before, q:after, q:before {
+        content: '';
+        content: none
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+/*my own formatting*/
+
+/*font formatting*/
+body {
+    font-size: 20px;
+    font-family: Georgia;
+    color: black;
+}
+
+h1, h3, #pageDesc, #recipeIcon, #menuText, #hyperlink, ol, ul {
+    font-family: Georgia;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 1.75em;
+}
+
+h3, h4 {
+    font-size: 2em;
+    color: #313d3d; /*dark grey*/
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+/*font, background and img formatting for specfic containers and IDs*/
+#pageHeader {
+    background-color: #0dded0; /*turquoise*/
+    color: white;
+    margin-top: 30px;
+    margin-left: 64px;
+    float: left;
+}
+
+img {
+    padding: 10px;
+}
+
+#menuBar {
+    background-color: #0dded0;
+    padding: 10px;
+    height: 60px;
+}
+
+#menuText, #hyperlink {
+    background-color: #0dded0;
+    font-size: 1em;
+    text-align: right;
+    padding: 20px;
+    color: white;
+}
+
+#pageDesc, #title, h4, ol, ul, #bigImg {
+    width: 50%;
+    color: #313d3d; /*dark grey*/
+    text-align: left;
+    margin: auto;
+    margin-left: 200px;
+    padding: 20px 0px 20px; /*top left&right bottom*/
+}
+
+#pageDesc, li {
+    line-height: 1.5em;
+}
+
+#aboutDesc {
+    margin: auto;
+    width: 50%;
+}
+
+#recipeContainer {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+#recipeIcon {
+    margin-right: 5px;
+    color: #313d3d; /*dark grey*/
+    width: 25%;
+    height: 250px;
+    background-color: #defafa; /*pale blue*/
+    padding: 30px;
+    font-size: 1em;
+    float: left;
+}
+
+li {
+    padding: 10px;
+}
+
+#ulBreak {
+    list-style: none;
+}
+
+/*change cursor to pointing hand when it is hovering over a link*/
+a.hyperlink, #recipeIcon {
+    cursor: pointer;
+}
