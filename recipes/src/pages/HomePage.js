@@ -1,16 +1,13 @@
 import React from "react";
-import { DessertTable } from "../index.js";
-//browse all recipes, or search by name
+import { RecipeTable } from "../index.js";
+import recipeJSON from "../recipeData.json";
 
-//display tiles for each recipe in categories
+//TODO: browse all recipes, or search by name
+//put search bar at top of screen, below nav
+//search by title, or ingredient
 
-//desserts
+//TODO: add constants list for dessert, sauce, realFood
 
-//real food
-
-//sauces
-
-//drinks
 const HomePage = () => {
   return (
     <div class="container">
@@ -18,11 +15,11 @@ const HomePage = () => {
 
       <div class="container p-3">
         <h1 className="display-4">Desserts</h1>
-        <DessertTable />
+              <RecipeTable recipeData={recipeJSON.desserts} category={"desserts"}/>
         <h1 className="display-4">Real Food</h1>
-        <DessertTable />
+              <RecipeTable recipeData={recipeJSON.realFood} category={"realFood"}/>
         <h1 className="display-4">Sauces</h1>
-        <DessertTable />
+              <RecipeTable recipeData={recipeJSON.sauces} category={"sauces"}/>
       </div>
     </div>
   );

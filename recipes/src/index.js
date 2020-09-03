@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { HashRouter as Router } from "react-router-dom";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
-import DessertTable from "./components/DessertTable";
+
+import RecipeTable from "./components/DessertTable";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import RecipeTile from "./components/RecipeTile";
@@ -13,23 +13,28 @@ import RecipeTile from "./components/RecipeTile";
 import About from "./pages/About";
 import HomePage from "./pages/HomePage";
 import PageNotFound from "./pages/PageNotFound";
+import RecipePage from "./pages/RecipePage";
+
+import * as actionTypes from "./state/actionTypes";
+import { AppContext } from "./App"
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Router>
-      <App />
-    </Router>
+    <React.StrictMode>
+          <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
 
 export {
+  actionTypes,
   About,
-  DessertTable,
+  AppContext,
+  RecipeTable,
   Footer,
   HomePage,
   Header,
   PageNotFound,
+  RecipePage,
   RecipeTile
 };
 
