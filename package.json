@@ -1,6 +1,6 @@
 {
   "name": "recipes",
-  "homepage": "https://jan729.github.io/DessertRecipes/", 
+  "homepage": "https://jan729.github.io/DessertRecipes/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
