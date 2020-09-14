@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/DessertRecipes/static/css/main.b2429e2e.chunk.css",
-    "main.js": "/DessertRecipes/static/js/main.1b528cbd.chunk.js",
-    "main.js.map": "/DessertRecipes/static/js/main.1b528cbd.chunk.js.map",
+    "main.css": "/DessertRecipes/static/css/main.c97143b8.chunk.css",
+    "main.js": "/DessertRecipes/static/js/main.38191792.chunk.js",
+    "main.js.map": "/DessertRecipes/static/js/main.38191792.chunk.js.map",
     "runtime-main.js": "/DessertRecipes/static/js/runtime-main.93623328.js",
     "runtime-main.js.map": "/DessertRecipes/static/js/runtime-main.93623328.js.map",
     "static/css/2.06c478a6.chunk.css": "/DessertRecipes/static/css/2.06c478a6.chunk.css",
     "static/js/2.e28dfc1c.chunk.js": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js",
     "static/js/2.e28dfc1c.chunk.js.map": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js.map",
     "index.html": "/DessertRecipes/index.html",
-    "precache-manifest.22755abb9e4e1ef67c9d5b950c9449d7.js": "/DessertRecipes/precache-manifest.22755abb9e4e1ef67c9d5b950c9449d7.js",
+    "precache-manifest.61b3830ce04eade5fba4dbce7662fcee.js": "/DessertRecipes/precache-manifest.61b3830ce04eade5fba4dbce7662fcee.js",
     "service-worker.js": "/DessertRecipes/service-worker.js",
     "static/css/2.06c478a6.chunk.css.map": "/DessertRecipes/static/css/2.06c478a6.chunk.css.map",
-    "static/css/main.b2429e2e.chunk.css.map": "/DessertRecipes/static/css/main.b2429e2e.chunk.css.map",
+    "static/css/main.c97143b8.chunk.css.map": "/DessertRecipes/static/css/main.c97143b8.chunk.css.map",
     "static/js/2.e28dfc1c.chunk.js.LICENSE.txt": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93623328.js",
     "static/css/2.06c478a6.chunk.css",
     "static/js/2.e28dfc1c.chunk.js",
-    "static/css/main.b2429e2e.chunk.css",
-    "static/js/main.1b528cbd.chunk.js"
+    "static/css/main.c97143b8.chunk.css",
+    "static/js/main.38191792.chunk.js"
   ]
 }
