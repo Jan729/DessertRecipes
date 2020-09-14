@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c97143b8.chunk.css",
-    "main.js": "/static/js/main.11649e8e.chunk.js",
-    "main.js.map": "/static/js/main.11649e8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ccdc9b21.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ccdc9b21.js.map",
-    "static/css/2.06c478a6.chunk.css": "/static/css/2.06c478a6.chunk.css",
-    "static/js/2.e28dfc1c.chunk.js": "/static/js/2.e28dfc1c.chunk.js",
-    "static/js/2.e28dfc1c.chunk.js.map": "/static/js/2.e28dfc1c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.518199ce0af8213d1ba2fc6af554f1d1.js": "/precache-manifest.518199ce0af8213d1ba2fc6af554f1d1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.06c478a6.chunk.css.map": "/static/css/2.06c478a6.chunk.css.map",
-    "static/css/main.c97143b8.chunk.css.map": "/static/css/main.c97143b8.chunk.css.map",
-    "static/js/2.e28dfc1c.chunk.js.LICENSE.txt": "/static/js/2.e28dfc1c.chunk.js.LICENSE.txt"
+    "main.css": "/DessertRecipes/static/css/main.c97143b8.chunk.css",
+    "main.js": "/DessertRecipes/static/js/main.38191792.chunk.js",
+    "main.js.map": "/DessertRecipes/static/js/main.38191792.chunk.js.map",
+    "runtime-main.js": "/DessertRecipes/static/js/runtime-main.93623328.js",
+    "runtime-main.js.map": "/DessertRecipes/static/js/runtime-main.93623328.js.map",
+    "static/css/2.06c478a6.chunk.css": "/DessertRecipes/static/css/2.06c478a6.chunk.css",
+    "static/js/2.e28dfc1c.chunk.js": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js",
+    "static/js/2.e28dfc1c.chunk.js.map": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js.map",
+    "index.html": "/DessertRecipes/index.html",
+    "precache-manifest.61b3830ce04eade5fba4dbce7662fcee.js": "/DessertRecipes/precache-manifest.61b3830ce04eade5fba4dbce7662fcee.js",
+    "service-worker.js": "/DessertRecipes/service-worker.js",
+    "static/css/2.06c478a6.chunk.css.map": "/DessertRecipes/static/css/2.06c478a6.chunk.css.map",
+    "static/css/main.c97143b8.chunk.css.map": "/DessertRecipes/static/css/main.c97143b8.chunk.css.map",
+    "static/js/2.e28dfc1c.chunk.js.LICENSE.txt": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccdc9b21.js",
+    "static/js/runtime-main.93623328.js",
     "static/css/2.06c478a6.chunk.css",
     "static/js/2.e28dfc1c.chunk.js",
     "static/css/main.c97143b8.chunk.css",
-    "static/js/main.11649e8e.chunk.js"
+    "static/js/main.38191792.chunk.js"
   ]
 }
