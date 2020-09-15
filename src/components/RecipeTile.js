@@ -1,17 +1,22 @@
 import React, { useContext } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { actionTypes, AppContext } from "../index";
+import { DESSERTS, SAUCES } from "../state/actions.js";
 
 //TODO: on click, change link to button, and find the recipe and set
 //the info in state
-const RecipeTile = ({ title, img }) => {
+const RecipeTile = ({ title, img, category }) => {
   const history = useHistory();
   const { dispatch } = useContext(AppContext);
 
   const goToRecipe = () => {
     console.log("go to recipe?");
     history.push("/Recipe");
-    dispatch({ type: actionTypes.SET_RECIPE, recipeName: title });
+    dispatch({
+      type: actionTypes.SET_RECIPE,
+      recipeName: title,
+      category: category
+    });
   };
 
   return (

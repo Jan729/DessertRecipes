@@ -1,6 +1,7 @@
 import React from "react";
 import { RecipeTable } from "../index.js";
 import recipeJSON from "../recipeData.json";
+import { DESSERTS, SAUCES } from "../state/actionTypes.js";
 
 //TODO: browse all recipes, or search by name
 //put search bar at top of screen, below nav
@@ -15,11 +16,12 @@ const HomePage = () => {
 
       <div class="container p-3">
         <h1 className="display-4">Desserts</h1>
-        <RecipeTable recipeData={recipeJSON.desserts} category={"desserts"} />
+        <RecipeTable recipeData={recipeJSON.desserts} category={DESSERTS} />
         {/*<h1 className="display-4">Real Food</h1>
-              <RecipeTable recipeData={recipeJSON.realFood} category={"realFood"}/>
+              <RecipeTable recipeData={recipeJSON.realFood} category={"realFood"} />
+              */}
         <h1 className="display-4">Sauces</h1>
-              <RecipeTable recipeData={recipeJSON.sauces} category={"sauces"}/> */}
+        <RecipeTable recipeData={recipeJSON.sauces} category={"sauces"} />
       </div>
     </div>
   );

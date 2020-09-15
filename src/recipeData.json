@@ -33,5 +33,16 @@
   ],
 
   "realFood": [],
-  "sauces": []
+  "sauces": [
+    {
+      "title": "Peanut Sauce",
+      "img": "lavenderShortbread.png",
+      "prep-time": "5 mins",
+      "total-time": "5 mins",
+      "amount": "about 1/2 cup",
+      "desc": "Inspired by https://sallysbakingaddiction.com/homemade-fresh-summer-rolls-with-easy-peanut-dipping-sauce/",
+      "ingredients": ["1/4 cup peanut butter", "1 tbsp Hoisin sauce", "2 tsp soy sauce", "1 clove garlic, mashed (about 1 tsp minced)", "1 tsp Sriracha or chili garlic sauce (optional)", "1 tsp minced ginger (optional)", "1-2 tbsp warm water (for desired consistency)","Optional garnish: chopped cilantro, crushed peanuts, red pepper flakes"],
+      "instructions": ["Mix the peanut butter, Hoisin sauce, soy sauce, garlic, and Sriracha in a bowl", "Add or reduce water as needed to reach desired consistency","Optional: Top with garnish"]
+    }
+  ]
 }
