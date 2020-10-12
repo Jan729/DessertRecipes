@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef723c7eef2d8e6d6f8d18481350d5d4",
+    "revision": "bc304fdaf1323c1a8f6e1ec613aeb466",
     "url": "/DessertRecipes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DessertRecipes/static/css/2.06c478a6.chunk.css"
   },
   {
-    "revision": "6af693cc44bb51f936b1",
+    "revision": "6e2e1899a1eef05af9f5",
     "url": "/DessertRecipes/static/css/main.c97143b8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DessertRecipes/static/js/2.e28dfc1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6af693cc44bb51f936b1",
-    "url": "/DessertRecipes/static/js/main.5e0076f8.chunk.js"
+    "revision": "6e2e1899a1eef05af9f5",
+    "url": "/DessertRecipes/static/js/main.032724ea.chunk.js"
   },
   {
     "revision": "423927ae48ed043faa5f",
