@@ -41,7 +41,7 @@ const App = () => {
             <Route component={PageNotFound} />
           </Switch>
         </div>
-        <Footer />
+        {/* <Footer /> */}
       </Router>
     </AppContext.Provider>
   );
