@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\recipes",
-    "\\recipes\\src",
-    "\\recipes\\src\\components",
-    "\\recipes\\src\\images",
-    "\\recipes\\src\\pages",
-    "\\recipes\\src\\state"
+    "\\src",
+    "\\src\\components",
+    "\\src\\pages",
+    "\\src\\state"
   ],
-  "SelectedNode": "\\recipes\\src\\recipeData.json",
+  "SelectedNode": "\\src\\state\\reducer.js",
   "PreviewInSolutionExplorer": false
 }
