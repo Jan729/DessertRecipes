@@ -18,7 +18,7 @@
       "amount": "Two to three dozen cookies (depending on how large you make them)",
       "desc": "I came up with this recipe when I found some chocolate hazelnut bars lying around the house and decided to turn them into cookies. They turned out a little softer than regular chocolate chip cookies since I used a milk chocolate hazelnut bar. If you like a crispier cookie, you can substitute the nutty chocolate bars with 3/4 cups chocolate chips, 3/4 cups chopped nuts of your choice and use 1 cup of flour instead of 1 1/8 cups.",
       "ingredients": [ "1/2 cup unsalted butter, room temperature", "1/2 cup brown sugar", "1/2 cup white sugar", "1 egg, room temperature", "1/2 tsp vanilla extract", "1/4 cup rolled oats (quick oats also work)", "1 1/8 cup all-purpose flour", "2 1/2 tsp baking powder", "1/4 tsp salt", "2 bars (200g) hazelnut chocolate bars, coarsely chopped" ],
-      "instructions": [ "\"Preheat the oven to 325°F", "In a large bowl, mix the butter, brown sugar and white sugar until creamy.", "Mix in the egg and vanilla extract.", "In a separate medium-sized bowl, mix the oats, flour, baking powder, and salt.", "Pour the dry ingredients into the wet ingredients and stir to combine.", "Fold in the chocolate hazelnut chunks.", "Scoop out 1 heaped tablespoon of dough per cookie and space 1 inch apart on a baking tray or cookie sheet lined with parchment paper.", "Bake for 15-25 minutes, or until an inserted toothpick comes out without any dough pieces on it (melted chocolate is fine)." ]
+      "instructions": [ "\"Preheat the oven to 325ï¿½F", "In a large bowl, mix the butter, brown sugar and white sugar until creamy.", "Mix in the egg and vanilla extract.", "In a separate medium-sized bowl, mix the oats, flour, baking powder, and salt.", "Pour the dry ingredients into the wet ingredients and stir to combine.", "Fold in the chocolate hazelnut chunks.", "Scoop out 1 heaped tablespoon of dough per cookie and space 1 inch apart on a baking tray or cookie sheet lined with parchment paper.", "Bake for 15-25 minutes, or until an inserted toothpick comes out without any dough pieces on it (melted chocolate is fine)." ]
     },
     {
       "title": "Lavender Shortbread",
@@ -28,11 +28,22 @@
       "amount": "About two dozen cookies",
       "desc": "These fragrant cookies are perfect for afternoon tea and are very easy to make. With this recipe, I bake the shortbread in one large, thin rectangle and cut the shortbread into triangles after it's done baking. This means you'll always get cookies with crisp edges without needing to chill the dough or worry about the cookies spreading out in the oven.",
       "ingredients": [ "1 1/2 cups unsalted butter, room temperature", "3/4 cup white sugar", "1 tbsp dried lavender", "1 tsp lemon zest", "2 3/4 cups all-purpose flour", "1/4 tsp table salt" ],
-      "instructions": [ "Preheat the oven to 325°F.", "Cream the butter and sugar in a medium bowl until fluffy.", "Stir in the lavender, lemon zest and salt.", "Sift the flour into the bowl and stir to combine.", "Plop the dough onto a large baking tray lined with parchment paper. Use a rolling pin or your hands to smooth out the dough into a large rectangle 1/4\" thick.", "Bake for 20-25 minutes or until the edges of the shortbread begin to lightly brown. (My oven takes 24 minutes.)", "While the tray is just out of the oven, cut the shortbread into triangles (or other simple shapes)." ]
+      "instructions": [ "Preheat the oven to 325ï¿½F.", "Cream the butter and sugar in a medium bowl until fluffy.", "Stir in the lavender, lemon zest and salt.", "Sift the flour into the bowl and stir to combine.", "Plop the dough onto a large baking tray lined with parchment paper. Use a rolling pin or your hands to smooth out the dough into a large rectangle 1/4\" thick.", "Bake for 20-25 minutes or until the edges of the shortbread begin to lightly brown. (My oven takes 24 minutes.)", "While the tray is just out of the oven, cut the shortbread into triangles (or other simple shapes)." ]
     }
   ],
 
-  "realFood": [],
+  "realFood": [
+    {
+      "title": "Jegg",
+      "img": "peanutSauce.png",
+      "prep-time": "idk mins",
+      "total-time": "idk mins",
+      "amount": "about 4 jeggs",
+      "desc": "Inspired by https://www.justonecookbook.com/hiroshima-okonomiyaki/. I simplified the recipe and modified it to taste more like the oknomiyaki we used to buy at that japanese food stand at the farmer's market",
+      "ingredients": ["300ml water", "2 tsp mirin", "1 1/4 cups all purpose flour", "6 cabbage leaves, shredded", "4 tsp bonito flakes, crushed into powder", "4 handfuls of bean sprouts", "4 eggs","Optional toppings: Otafuku Okonomi sauce, Japanese mayo, shredded nori, more bonito flakes"],
+      "instructions": ["Mix water, flour, mirin, powdered bonito, and cabbage in a large bowl", "Heat large pan on medium heat, add some oil, and pour 1/4 of the batter onto the pan. Put a handful of bean sprouts on top.", "When the pancake is cooked on the bottom, flip and let it cook until it's almost done", "Crack an egg next to the pancake. When the egg is almost done, flip the pancake onto the egg and let the egg finish cooking.", "Add toppings. Eat."]
+    }
+  ],
   "sauces": [
     {
       "title": "Peanut Sauce",
